@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas7/main.dart';
 
-//Elisa Nurfauziah
 void main() {
   runApp(MyApp());
 }
@@ -10,10 +8,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tugas7',
+      title: 'UTS Mobile Programming',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Elisa Nurfauziah '),
+          title: Text('dinda Nur Ishma'),
         ),
         body: Column(
           children: [
